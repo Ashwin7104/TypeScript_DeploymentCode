@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="App">
+    <File Path="App\ProvisionDefinition.ts" Url="App/ProvisionDefinition.ts" ReplaceContent="TRUE" />
+    <File Path="App\ContentTypeModel.ts" Url="App/ContentTypeModel.ts" ReplaceContent="TRUE" />
+    <File Path="App\DeploymentTool.ts" Url="App/DeploymentTool.ts" ReplaceContent="TRUE" />
+    <File Path="App\Main.ts" Url="App/Main.ts" ReplaceContent="TRUE" />
+    <File Path="App\ProvisionDefinition.js" Url="App/ProvisionDefinition.js" ReplaceContent="TRUE" />
+    <File Path="App\ProvisionDefinition.js.map" Url="App/ProvisionDefinition.js.map" ReplaceContent="TRUE" />
+    <File Path="App\Main.js.map" Url="App/Main.js.map" ReplaceContent="TRUE" />
+    <File Path="App\Main.js" Url="App/Main.js" ReplaceContent="TRUE" />
+    <File Path="App\DeploymentTool.js.map" Url="App/DeploymentTool.js.map" ReplaceContent="TRUE" />
+    <File Path="App\DeploymentTool.js" Url="App/DeploymentTool.js" ReplaceContent="TRUE" />
+    <File Path="App\ContentTypeModel.js.map" Url="App/ContentTypeModel.js.map" ReplaceContent="TRUE" />
+    <File Path="App\ContentTypeModel.js" Url="App/ContentTypeModel.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
